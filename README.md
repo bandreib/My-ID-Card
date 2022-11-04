@@ -1,6 +1,6 @@
 # myid
 
-A new Flutter project.
+First flutter project.
 
 ## Getting Started
 
